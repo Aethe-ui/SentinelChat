@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">SentinalChat</string>
+    <string name="app_name">SentinelChat</string>
+    <string name="secure_private_direct">Secure. Private. Direct.</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">LOGIN</string>
+    <string name="new_here_create_account">New here? Create Account</string>
+    <string name="logo_description">SentinelChat Shield Logo</string>
 </resources>
