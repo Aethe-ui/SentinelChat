@@ -1,10 +1,31 @@
 <resources>
     <string name="app_name">SentinelChat</string>
-    <string name="secure_private_direct">Secure. Private. Direct.</string>
-    <string name="email_address">Email Address</string>
-    <string name="password">Password</string>
-    <string name="forgot_password">Forgot Password?</string>
-    <string name="login">LOGIN</string>
-    <string name="new_here_create_account">New here? Create Account</string>
+    <string name="private_direct_session">Private. Direct. Session-Based.</string>
+    <string name="start_secure_session">Start Secure Session</string>
+    <string name="session_description">Create a temporary encrypted session. Your session will automatically end when you disconnect from the shared WiFi network.</string>
+    <string name="display_name">Display Name</string>
+    <string name="display_name_helper">Name visible to peers on this network</string>
+    <string name="initialize_session">Initialize Encrypted Session</string>
+    <string name="advanced_settings">Advanced Settings</string>
+    <string name="connected_to">Connected to: %s</string>
+    <string name="wifi_warning">You must connect to a common WiFi network to start a session.</string>
     <string name="logo_description">SentinelChat Shield Logo</string>
+    <string name="name_required">Display Name is required</string>
+    <string name="generating_keys">GENERATING SECURE KEYS...</string>
+    <string name="entropy_buffer">Establishing P2P Entropy Buffer</string>
+
+    <!-- Key Setup Page Strings -->
+    <string name="initialize_secure_session">Initialize Secure Session</string>
+    <string name="generate_crypto_identity">Generate your cryptographic identity</string>
+    <string name="key_pair_generation">Key Pair Generation</string>
+    <string name="key_gen_description">Your device will generate a Public and Private key. The private key never leaves your device.</string>
+    <string name="public_key">Public Key</string>
+    <string name="private_key">Private Key</string>
+    <string name="private_key_status">Stored securely on this device</string>
+    <string name="generate_key_pair">Generate Secure Key Pair</string>
+    <string name="enter_secure_lobby">Enter Secure Lobby</string>
+    <string name="session_expiry_info">Session will automatically end when you disconnect from the shared WiFi network.</string>
+    <string name="copy_public_key">Copy Public Key</string>
+    <string name="back_button_desc">Go back</string>
+    <string name="placeholder_public_key">No keys generated yet...</string>
 </resources>
